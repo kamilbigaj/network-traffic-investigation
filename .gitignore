@@ -1,0 +1,7 @@
+# Packet captures
+*.pcap
+*.pcapng
+
+# Wireshark temporary and backup files
+*.pcapng~
+*.pcap~
